@@ -1,6 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-### NAME:ABINAYA A
-### REGNO:212223040003
+### NAME:JAYAVARSHA T
+### REGNO:212223040075
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
